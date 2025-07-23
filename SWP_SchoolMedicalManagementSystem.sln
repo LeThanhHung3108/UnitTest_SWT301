@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWP_SchoolMedicalManagementSystem_API", "SWP_SchoolMedicalManagementSystem_API\SWP_SchoolMedicalManagementSystem_API.csproj", "{314A171C-23CA-49FE-99EF-7F850214D4D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWP_SchoolMedicalManagementSystem_BussinessOject", "SWP_SchoolMedicalManagementSystem_BussinessProject\SWP_SchoolMedicalManagementSystem_BussinessOject.csproj", "{129D48B8-5BB6-4551-9AB4-93BD4DA29D56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWP_SchoolMedicalManagementSystem_Service", "SWP_SchoolMedicalManagementSystem_Service\SWP_SchoolMedicalManagementSystem_Service.csproj", "{F2D3F248-1A58-44DD-86AA-1ED071772D77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWP_SchoolMedicalManagementSystem_UnitTest", "SWP_SchoolMedicalManagementSystem_UnitTest\SWP_SchoolMedicalManagementSystem_UnitTest.csproj", "{FE1E6B67-C104-47EA-8B70-F57F0A415D9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{314A171C-23CA-49FE-99EF-7F850214D4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314A171C-23CA-49FE-99EF-7F850214D4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314A171C-23CA-49FE-99EF-7F850214D4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314A171C-23CA-49FE-99EF-7F850214D4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{129D48B8-5BB6-4551-9AB4-93BD4DA29D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129D48B8-5BB6-4551-9AB4-93BD4DA29D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129D48B8-5BB6-4551-9AB4-93BD4DA29D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129D48B8-5BB6-4551-9AB4-93BD4DA29D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2D3F248-1A58-44DD-86AA-1ED071772D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D3F248-1A58-44DD-86AA-1ED071772D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D3F248-1A58-44DD-86AA-1ED071772D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D3F248-1A58-44DD-86AA-1ED071772D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE1E6B67-C104-47EA-8B70-F57F0A415D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1E6B67-C104-47EA-8B70-F57F0A415D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1E6B67-C104-47EA-8B70-F57F0A415D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1E6B67-C104-47EA-8B70-F57F0A415D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A35FF4B-C710-4869-8BE2-EAA024F361FD}
+	EndGlobalSection
+EndGlobal
